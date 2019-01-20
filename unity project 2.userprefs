@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Unity Project 4\Assets\Scripts\Player\megaAttack.js">
+    <Files>
+      <File FileName="..\Unity Project 4\Assets\Scripts\Événement\ennemie.js" Line="23" Column="20" />
+      <File FileName="..\Unity Project 4\Assets\Scripts\Player\megaAttack.js" Line="30" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
